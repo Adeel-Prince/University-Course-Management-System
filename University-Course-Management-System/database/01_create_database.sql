@@ -1,0 +1,3 @@
+-- First Create Database...
+CREATE DATABASE "UniversityDB";
+SELECT current_database();
